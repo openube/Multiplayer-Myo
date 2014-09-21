@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Draw Multiple</string>
+    <string name="waiting_message">Looking for adjacent Myo</string>
+    <string name="title_activity_draw">DrawActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_finger">FingerActivity</string>
+
+</resources>
